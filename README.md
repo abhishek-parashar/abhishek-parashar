@@ -21,4 +21,6 @@ Here are some ideas to get you started:
  ### A very warm welcome to my share of internet!!!:metal::grin::metal:
  ### I'm a data science research enthusiast, Google AI Explore ML Facilitator and a DRDO research intern. I've a deep rooted interest for mathematics, physics and Data science in general.:sunglasses:
  ### Apart from consuming delicacies :yum:, I like to play guitar:guitar:, percussion instruments:drum:,keyboard:musical_keyboard:, shake some legs on chartbusters:dancers: and play cricket:cricket_game:. Sometimes, I enter a world of my own and usually bring that to paper in form of poetry and stories:stuck_out_tongue_closed_eyes: 
+ ### Since last couple of years, I’ve been in the machine learning and deep learning domain. I’ve explored a great deal of learning models and a lot of computational mathematics. After exploring these fundamentals behind AI and it’s sub-disciplines, I figured there’s a need for some external source of information to solve out this mystery of mathematics and learning. Thus, I continue to research to elucidate the nebulous of jargon existing in the field of Machine Learning.:fire::fire::fire:
+ ### You can know more about me at - https://abhishek-parashar.github.io/ :metal::grin::metal:
  
