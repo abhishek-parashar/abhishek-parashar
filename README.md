@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center><img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="500"></center>
+<p align="center">
+<img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="500">
+ </p>
