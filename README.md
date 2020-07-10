@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Amigos!! 👋
 
 <!--
 **abhishek-parashar/abhishek-parashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="200">
-![Image](https://abhishek-parashar.github.io/assets/img/about.jpeg)
+<img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="500">
