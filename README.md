@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<p align="left">
 <img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="500">
+ </p>
+<p align="left">
+ ## hello
  </p>
