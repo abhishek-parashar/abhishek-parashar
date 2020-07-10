@@ -20,5 +20,5 @@ Here are some ideas to get you started:
  
  ### A very warm welcome to my share of internet!!!:metal::grin::metal:
  ### I'm a data science research enthusiast, Google AI Explore ML Facilitator and a DRDO research intern. I've a deep rooted interest for mathematics, physics and Data science in general.:sunglasses:
- ### Apart from consuming delicacies :yum:, I like to play guitar:guitar:, percussion instruments:drum:, keyboard:keyboard:, shake some legs on chartbusters:dancers: and play cricket:cricket:. Sometimes, I enter a world of my own and usually bring that to paper in form of poetry and stories 
+ ### Apart from consuming delicacies :yum:, I like to play guitar:guitar:, percussion instruments:drum:,keyboard:musical_keyboard:, shake some legs on chartbusters:dancers: and play cricket:bat_ball:. Sometimes, I enter a world of my own and usually bring that to paper in form of poetry and stories 
  
