@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
+<p align="center">
 <img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="500">
  </p>
-<p align="left">
- ## hello
- </p>
+ 
+ #### A very warm welcome to my share of internet!!! I'm a data science research enthusiast, Google AI Explore ML Facilitator and a DRDO research intern. I've a deep rooted interest for mathematics, physics and Data science in general. :metal: :grin: :metal:
+ 
