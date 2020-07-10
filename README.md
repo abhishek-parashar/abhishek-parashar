@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <img src="https://abhishek-parashar.github.io/assets/img/about.jpeg" height="500">
  </p>
  
- #### A very warm welcome to my share of internet!!! I'm a data science research enthusiast, Google AI Explore ML Facilitator and a DRDO research intern. I've a deep rooted interest for mathematics, physics and Data science in general. :metal: :grin: :metal:
+ ### A very warm welcome to my share of internet!!!:metal::grin::metal:
+ ### I'm a data science research enthusiast, Google AI Explore ML Facilitator and a DRDO research intern. I've a deep rooted interest for mathematics, physics and Data science in general.
  
