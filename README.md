@@ -6,5 +6,4 @@
 - 💬 I want to develop GANs 
 - 📫 Blogging Website- https://abhishek-parashar.github.io/
 - ⚡ I like to play chess - Rating of 1532 Class C Master
-- :chess
-
+- :chess: 
