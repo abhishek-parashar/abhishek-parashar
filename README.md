@@ -1,6 +1,6 @@
 ### Hola Amigos!! 👋
 
-- :atom: I am a Kaggle expert :trophy:, deeplearninf.ai ambassodar :star:, DRDO Research Intern :fire:, Google AI Explore ML Facilitator :comet: and a Machine Learning Researcher :nerd_face:.
+- :electron: I am a Kaggle expert :trophy:, deeplearninf.ai ambassodar :star:, DRDO Research Intern :fire:, Google AI Explore ML Facilitator :comet: and a Machine Learning Researcher :nerd_face:.
 - :thought_balloon: All Day I think about Machine Learning and Deep learning
 - :grin: I’m currently brushing myself with Data Structures and Algorithms.
 - :alien: I want to develop GANs 
