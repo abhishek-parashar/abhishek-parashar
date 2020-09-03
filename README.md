@@ -1,6 +1,6 @@
 ### Hola Amigos!! 👋
 - ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
-- :electron: I am a Kaggle expert :trophy:, deeplearninf.ai ambassodar :star:, DRDO Research Intern :fire:, Google AI Explore ML Facilitator :comet: and a Machine Learning Researcher :nerd_face:.
+**I am a Kaggle expert, deeplearning.ai ambassodar, DRDO Research Intern, Google AI Explore ML Facilitator and a Machine Learning Researcher.**
 - :thought_balloon: All Day I think about Machine Learning and Deep learning
 - :grin: I’m currently brushing myself with Data Structures and Algorithms.
 - :alien: I want to develop GANs 
