@@ -10,5 +10,18 @@
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
 - :snowflake: Youtube -  https://www.youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber
-- :tiger: LinkedIn - https://www.linkedin.com/in/abhishek-parashar-3a9218150/
 - ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/abhishek-parashar-3a9218150/"
+
+ [[params.social]]
+    icon = "Youtube"
+    icon_pack = "fa"
+    link = "//youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
