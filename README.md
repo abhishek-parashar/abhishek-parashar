@@ -13,17 +13,4 @@
 - :snowflake: Youtube -  https://www.youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber)
 
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar)](https://github.com/abhishek-parashar/github-readme-stats)
- - [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/abhishek-parashar-3a9218150/"
 
- [[params.social]]
-    icon = "Youtube"
-    icon_pack = "fa"
-    link = "//youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/USERNAME"
