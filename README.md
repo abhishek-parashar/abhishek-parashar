@@ -13,7 +13,6 @@
 ### Hola Amigos!! 👋
 
 ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
-
 **I am a Kaggle expert, deeplearning.ai ambassodar, DRDO Research Intern, Google AI Explore ML Facilitator and a Machine Learning Researcher.**
 ---
 - :thought_balloon: All Day I think about Machine Learning and Deep learning
