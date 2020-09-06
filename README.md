@@ -13,6 +13,6 @@
 - :page_with_curl: Website/Blogs- https://abhishek-parashar.github.io/
 - LinkedIn - https://www.linkedin.com/in/abhishek-parashar-3a9218150/
 
-[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true&theme=synthwave)](https://github.com/abhishek-parashar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-parashar&layout=compact&theme=synthwave)](https://github.com/abhishek-parashar/github-readme-stats)
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true)](https://github.com/abhishek-parashar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-parashar&layout=compact)](https://github.com/abhishek-parashar/github-readme-stats)
 
