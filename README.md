@@ -1,4 +1,4 @@
-### Hola Amigos!! 👋
+
 
 
 
@@ -9,6 +9,7 @@
 <a href="https://www.instagram.com/_abhishek.parashar__/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
+### Hola Amigos!! 👋
 
 ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
 <br>
@@ -20,6 +21,7 @@
 - :guitar: I like to Play guitar and have a deep understanding of musical notations :notes: 
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
+<br>
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true)](https://github.com/abhishek-parashar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-parashar&layout=compact)](https://github.com/abhishek-parashar/github-readme-stats)
 
