@@ -15,6 +15,7 @@
 ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
 <br>
 **I am a Kaggle expert, deeplearning.ai ambassodar, DRDO Research Intern, Google AI Explore ML Facilitator and a Machine Learning Researcher.**
+---
 - :thought_balloon: All Day I think about Machine Learning and Deep learning
 - :grin: I’m currently brushing myself with Data Structures and Algorithms.
 - :alien: I want to develop GANs 
@@ -22,8 +23,7 @@
 - :guitar: I like to Play guitar and have a deep understanding of musical notations :notes: 
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
-<br>
-
+---
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true)](https://github.com/abhishek-parashar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-parashar&layout=compact)](https://github.com/abhishek-parashar/github-readme-stats)
 
