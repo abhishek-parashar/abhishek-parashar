@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/_abhishek.parashar__/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
 <br>
 **I am a Kaggle expert, deeplearning.ai ambassodar, DRDO Research Intern, Google AI Explore ML Facilitator and a Machine Learning Researcher.**
