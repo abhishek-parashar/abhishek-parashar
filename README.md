@@ -10,7 +10,8 @@
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
 - :snowflake: Youtube -  https://www.youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber)
-- :page_with_curl: Blogs- https://abhishek-parashar.github.io/
+- :page_with_curl: Website/Blogs- https://abhishek-parashar.github.io/
+- :linkedIn - https://www.linkedin.com/in/abhishek-parashar-3a9218150/
 
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true&theme=synthwave)](https://github.com/abhishek-parashar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-parashar&layout=compact&theme=synthwave)](https://github.com/abhishek-parashar/github-readme-stats)
