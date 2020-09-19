@@ -25,6 +25,9 @@
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
 ---
+### Latest Blogs :book
+
+---
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true)](https://github.com/abhishek-parashar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-parashar&layout=compact)](https://github.com/abhishek-parashar/github-readme-stats)
 
