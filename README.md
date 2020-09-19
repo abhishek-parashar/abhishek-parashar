@@ -27,6 +27,10 @@
 ---
 ### Latest Youtube Videos 
 <!-- Youtube:START -->
+- [IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=tJ5Ky-hVaSI)
+- [Summary of IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=LcpEJ9eXLP0)
+- [object detection IEEE RAS MSIT](https://www.youtube.com/watch?v=y5PC9xxqRJw)
+- [INTRODUCTION TO RAS (ROBOTICS AND AUTOMATION) MSIT](https://www.youtube.com/watch?v=7wXmKvj-Emg)
 <!-- Youtube:END -->
 
 ---
