@@ -25,7 +25,7 @@
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
 ---
-### Latest Youtube Videos 
+### My Youtube Tutorials - Zero to GANs in Machine Learning
 <!-- Youtube:START -->
 - [IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=tJ5Ky-hVaSI)
 - [Summary of IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=LcpEJ9eXLP0)
