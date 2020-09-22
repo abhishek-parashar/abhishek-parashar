@@ -27,7 +27,7 @@
 ---
 ### My Youtube Tutorials - Zero to GANs in Machine Learning
 <!-- Youtube:START -->
-- [IEEE RAS - MACHINE LEARNING SERIES](https://www.youtube.com/watch?v=Zl-1TGlPy3o)
+- [IEEE RAS - MACHINE LEARNING SERIES - Intro.](https://www.youtube.com/watch?v=Zl-1TGlPy3o)
 - [IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=tJ5Ky-hVaSI)
 - [Summary of IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=LcpEJ9eXLP0)
 - [object detection IEEE RAS MSIT](https://www.youtube.com/watch?v=y5PC9xxqRJw)
