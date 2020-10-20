@@ -27,6 +27,7 @@
 ---
 ### My Youtube Tutorials - Zero to GANs in Machine Learning
 <!-- Youtube:START -->
+- [IEEE RAS - NumPy Fundamentals for ML (02)](https://www.youtube.com/watch?v=Pcop8z-k93g)
 - [IEEE RAS - PANDAS AND DATA FRAMES (01)](https://www.youtube.com/watch?v=VYIv5h1GU6g)
 - [IEEE RAS - MACHINE LEARNING SERIES (Intro.)](https://www.youtube.com/watch?v=Zl-1TGlPy3o)
 - [IEEE RAS - Honest Talks on Machine Learning](https://www.youtube.com/watch?v=LcpEJ9eXLP0)
