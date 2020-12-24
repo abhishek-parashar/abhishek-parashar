@@ -1,12 +1,9 @@
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/profile.gif?raw=true">
 </p>
-
-
 <p align='center'>
 <a href="https://abhishek-parashar.github.io/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/website.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/youtube.png"></i></a>&nbsp;&nbsp;
-  
+<a href="https://www.youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/youtube.png"></i></a>&nbsp;&nbsp; 
 <a href="https://twitter.com/_abhiparashar"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishek.parashar__/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/linkedin.png?raw=true"></a>
