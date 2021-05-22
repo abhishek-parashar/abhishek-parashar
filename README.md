@@ -18,7 +18,7 @@
 - :thought_balloon: All Day I think about Machine Learning and Deep learning
 - :grin: I’m currently brushing myself with Data Structures and Algorithms.
 - :alien: I want to develop GANs 
-- ⚡ I like to play chess - Rating of 1532 Class C Master
+- ⚡ I like to play chess - Rating of 2236 international master[chess.com](https://www.chess.com/home)
 - :guitar: I like to Play guitar and have a deep understanding of musical notations :notes: 
 - :telescope: Astronomy and Astrophysics excites me. 
 - :pizza: is :heart:
