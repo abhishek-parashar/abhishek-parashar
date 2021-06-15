@@ -3,9 +3,7 @@
 </p>
 <p align='center'>
 <a href="https://abhishek-parashar.github.io/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/website.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCM8g23a3X-cYaIn3d7SK_dg?view_as=subscriber"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/youtube.png"></i></a>&nbsp;&nbsp; 
 <a href="https://twitter.com/_abhiparashar"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_abhishek.parashar__/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="30" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
 
@@ -15,13 +13,11 @@
 
 **I am a Kaggle expert, deeplearning.ai ambassodar, DRDO Research Intern, Google AI Explore ML Facilitator and a Machine Learning Researcher.**
 ---
-- :thought_balloon: All Day I think about Machine Learning and Deep learning
-- :grin: I’m currently brushing myself with Data Structures and Algorithms.
-- :alien: I want to develop GANs 
-- ⚡ I like to play chess - Rating of 2236 international master [(chess.com)](https://www.chess.com/home)
-- :guitar: I like to Play guitar and have a deep understanding of musical notations :notes: 
-- :telescope: Astronomy and Astrophysics excites me. 
-- :pizza: is :heart:
+- 💻 Machine Learning / Deep Learning Research
+- 💭 Thoughts on ML, DL, GANS, Polity and International Relations, History, Philosphy etc. etc.
+- 🏆 Competitive Programmer.
+- ♟️ - Rating of 2236 international master [(chess.com)](https://www.chess.com/home)
+- 🧑‍🚀 🔭 🎸 🎼
 ---
 ### My Youtube Tutorials - Zero to GANs in Machine Learning
 <!-- Youtube:START -->
