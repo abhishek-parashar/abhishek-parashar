@@ -2,9 +2,9 @@
 <img src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/profile.gif?raw=true">
 </p>
 <p align='center'>
-<a href="https://abhishek-parashar.github.io/"><img height="30" src="https://image.flaticon.com/icons/png/512/2301/2301281.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_abhiparashar"><img height="30" src="https://image.flaticon.com/icons/png/512/1409/1409937.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="30" src="https://image.flaticon.com/icons/png/512/1409/1409945.png"></a>
+<a href="https://abhishek-parashar.github.io/"><img height="50" src="https://image.flaticon.com/icons/png/512/2301/2301281.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_abhiparashar"><img height="50" src="https://image.flaticon.com/icons/png/512/1409/1409937.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="50" src="https://image.flaticon.com/icons/png/512/1409/1409945.png"></a>
 </p>
 
 ### Hola Amigos!! 👋
