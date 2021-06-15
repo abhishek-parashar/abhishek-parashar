@@ -31,4 +31,4 @@
 
 <!-- [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true)](https://github.com/abhishek-parashar/github-readme-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-parashar)](https://github.com/abhishek-parashar/github-readme-streak-stats) -->
-![](https://github-profile-trophy.vercel.app/?username=abhishek-parashar)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=abhishek-parashar) -->
