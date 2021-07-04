@@ -14,7 +14,7 @@
 **I am a Kaggle expert, deeplearning.ai ambassodar, DRDO Research Intern, Google AI Explore ML Facilitator and a Machine Learning Researcher.**
 ---
 - 💻 Machine Learning / Deep Learning Research
-- 💭 Thoughts on ML, DL, GANS, Polity and International Relations, History, Philosphy etc. etc.
+- 💭 Thoughts on ML, DL, GANS, Polity and International Relations, History, Philosphy, Astronomy, Cosmology, Astrophysics etc. etc.
 - 🏆 Competitive Programmer.
 - ♟️ Rating of 2236 international master [(chess.com)](https://www.chess.com/home)
 - 🧑‍🚀 🔭 🎸 🎼
