@@ -11,7 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
 
-**All about Data Science, Machine Learning, Deep Learning. Sometimes Competitive Programming**
 ---
 - 💻 Machine Learning and Deep Learning Research
 - 💭 Thoughts on ML, DL, GANS, Polity and International Relations, History, Philosphy, Astronomy, Cosmology, Astrophysics etc. etc.
