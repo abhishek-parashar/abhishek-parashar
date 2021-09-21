@@ -11,10 +11,10 @@
 
 ![](https://komarev.com/ghpvc/?username=abhishek-parashar)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= Software Developer;Machine Learning and Deep Learning Researcher)](https://git.io/typing-svg)
+
 ---
-- 💻 Machine Learning and Deep Learning Research
-- 💭 Thoughts on ML, DL, GANS, Polity and International Relations, History, Philosphy, Astronomy, Cosmology, Astrophysics etc. etc.
-- 🏆 Competitive Programmer.
+- 💭 Blogs on ML, DL, GANS, Polity and International Relations, History, Philosphy, Astronomy, Cosmology, Astrophysics etc. etc.
 - ♟️ Rating of 2236 international master [(chess.com)](https://www.chess.com/home)
 - 🧑‍🚀 🔭 🎸 🎼
 ---
