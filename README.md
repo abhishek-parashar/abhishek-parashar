@@ -25,6 +25,10 @@
 - [Style GAN Exordium](https://abhishekparashar.me/mkcommon.html)
 - [Defacify](https://abhishekparashar.me/age.html)
 - [Bring Back the colours](https://abhishekparashar.me/deoldify.html)
+---
+### Languages and Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 
 
 <!-- [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-parashar&count_private=true&show_icons=true)](https://github.com/abhishek-parashar/github-readme-stats) -->
