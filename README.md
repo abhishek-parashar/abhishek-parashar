@@ -19,7 +19,7 @@
 - ♟️ Rating of 2236 international master [(chess.com)](https://www.chess.com/home)
 - 🎸 I like to play guitar with keen understanding of musical notations 🎼
 - 🏏 like most of the Indians, I consider Cricket as a worship under the summer sun.
-- 📚 Currently reading - An Autobiography of a Yogi.
+- 📚 Currently reading - Tiger Throne.
 ---
 ### My Recent Blogs 
 - [Style GAN Exordium](https://abhishekparashar.me/mkcommon.html)
