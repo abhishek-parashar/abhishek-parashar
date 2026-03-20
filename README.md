@@ -18,7 +18,7 @@
 - 💭 Blogs on ML, DL, GANS, Polity and International Relations, History, Philosphy, Astronomy, Cosmology, Astrophysics etc. etc.
 - 🎸 I like to play guitar with keen understanding of musical notations 🎼
 - 🏏 like most of the Indians, I consider Cricket as a worship under the summer sun.
-- 📚 Currently reading - Tiger Throne.
+- 📚 Currently reading - Nichomachean Ethics.
 ---
 ### My Recent Blogs 
 - [Style GAN Exordium](https://abhishekparashar.me/mkcommon.html)
