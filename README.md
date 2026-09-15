@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="40" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/linkedin.png"></a>
 </p>
 
+I like AI. 
+
 ### My Recent Blogs 
 - [Style GAN Exordium](https://abhishekparashar.me/mkcommon.html)
 - [Defacify](https://abhishekparashar.me/age.html)
