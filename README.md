@@ -11,7 +11,7 @@
 - [Style GAN Exordium](https://abhishekparashar.me/mkcommon.html)
 - [Defacify](https://abhishekparashar.me/age.html)
 - [Bring Back the colours](https://abhishekparashar.me/deoldify.html)
----
+
 <!-- <p>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
