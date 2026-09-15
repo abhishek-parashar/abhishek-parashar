@@ -1,11 +1,11 @@
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/profile.gif?raw=true">
 </p>
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://abhishek-parashar.github.io/"><img height="40" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/globe.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_abhiparashar"><img height="40" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-parashar-3a9218150/"><img height="40" src="https://github.com/abhishek-parashar/abhishek-parashar/blob/master/icon/linkedin.png"></a>
-</p>
+</p> -->
 
 ### I like AI. 
 
