@@ -9,11 +9,10 @@
 
 ### Hola Amigos!! 👋
 
-![](https://komarev.com/ghpvc/?username=abhishek-parashar)
+<!-- ![](https://komarev.com/ghpvc/?username=abhishek-parashar) -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Development;Data+Science+Research)](https://git.io/typing-svg)
-
 ---
 - 💭 Blogs on ML, DL, GANS, Polity and International Relations, History, Philosphy, Astronomy, Cosmology, Astrophysics etc. etc.
 - 🎸 I like to play guitar with keen understanding of musical notations 🎼
